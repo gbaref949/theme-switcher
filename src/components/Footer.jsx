@@ -1,9 +1,7 @@
 import React from 'react'
 
-const Theme = () => {
+export const Footer = () => {
   return (
-    <div>Theme</div>
+    <div>Footer</div>
   )
 }
-
-export default Theme
